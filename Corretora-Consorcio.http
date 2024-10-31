@@ -1,0 +1,6 @@
+@Corretora_Consorcio_HostAddress = http://localhost:5141
+
+GET {{Corretora_Consorcio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
